@@ -11,6 +11,9 @@ import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * Example for using Selenium
+ */
 public class TestExample {
 
         @Test
